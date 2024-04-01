@@ -1,0 +1,3 @@
+Put the .htaccess file at the root of directory,where you are putting your build files in the srever.
+
+The file resolves the 404 error on reloading
